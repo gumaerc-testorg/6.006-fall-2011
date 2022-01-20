@@ -1,0 +1,19 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Recitation 23: Computational Complexity'
+uid: 19857be2-8ea4-ace7-d430-b28bfd37d873
+video_files:
+  archive_url: http://www.archive.org/download/MIT6.006F11/MIT6_006F11_rec23_300k.mp4
+  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/997e8ae4b7a255738d284d82882fb8b0_t5Wxk96QjUk.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/t5Wxk96QjUk/default.jpg
+  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/168b6e05da169297f26caad846c1f722_t5Wxk96QjUk.pdf
+video_metadata:
+  youtube_id: t5Wxk96QjUk
+---
+
+**Description:** This recitation reviews the computational complexity concepts presented in lecture.
+
+**Instructor:** Victor Costan
