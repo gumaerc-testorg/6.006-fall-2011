@@ -1,0 +1,19 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Recitation 11: Principles of Algorithm Design'
+uid: 9f8b85b6-03ff-f8d5-30a7-3ef6dc81b376
+video_files:
+  archive_url: http://www.archive.org/download/MIT6.006F11/MIT6_006F11_rec11_300k.mp4
+  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/ed62772bf7095fb5b936c47ad869736c_a_otxyu0mSQ.vtt
+  video_thumbnail_file: https://img.youtube.com/vi/a_otxyu0mSQ/default.jpg
+  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/e9e55afa7ccd5a7072b67b18c0f11253_a_otxyu0mSQ.pdf
+video_metadata:
+  youtube_id: a_otxyu0mSQ
+---
+
+**Description:** This recitation discusses principles of algorithm design, using example problems from previous final exams.
+
+**Instructor:** Victor Costan
