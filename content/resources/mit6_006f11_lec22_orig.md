@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to two kinds of guessing;
   piano/guitar fingering, Tetris training, Super Mario Bros.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/e81216fbda0402f3fc84a3d9438a959a_MIT6_006F11_lec22_orig.pdf
+file: /media/courses/6-006-introduction-to-algorithms-fall-2011/e81216fbda0402f3fc84a3d9438a959a_MIT6_006F11_lec22_orig.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos
+parent_type: CourseSection
 resourcetype: Document
 title: '6.006 Lecture 22 Original: Two kinds of guessing; piano/guitar fingering,
   Tetris training, Super Mario Bros.'

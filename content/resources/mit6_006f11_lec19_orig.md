@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information related to Memoization, subproblems,
   guessing, bottom-up; Fibonacci, shortest paths.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/ea1cb4a29625017bdbcaf2dfd61b179e_MIT6_006F11_lec19_orig.pdf
+file: /media/courses/6-006-introduction-to-algorithms-fall-2011/ea1cb4a29625017bdbcaf2dfd61b179e_MIT6_006F11_lec19_orig.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos
+parent_type: CourseSection
 resourcetype: Document
 title: '6.006 Lecture 19 Original: Memoization, subproblems, guessing, bottom-up;
   Fibonacci, shortest paths'

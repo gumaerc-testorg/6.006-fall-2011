@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: f5734501-4b07-a46b-d16f-f4d95aef57d5
 title: Software
 uid: 439d0ff3-67dd-3140-f769-dbfd28c87874

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: aa632f83-51fe-4fa5-8aaf-1513de806253
 title: Python Cost Model
 uid: 2e91de4c-23a9-f323-866d-265121e71f07
@@ -46,7 +50,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `84 \* (n/1000)^2 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 8000`
+`n \<= 8000`
 {{< tdclose >}}
 {{< tdopen >}}
 6% rms error
@@ -64,7 +68,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `75 \* (n/1000)^2 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 8000`
+`n \<= 8000`
 {{< tdclose >}}
 {{< tdopen >}}
 3% rms error
@@ -82,7 +86,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `2.7 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 19% rms error
@@ -100,7 +104,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `0.75 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 512000`
+`n \<= 512000`
 {{< tdclose >}}
 {{< tdopen >}}
 8% rms error
@@ -118,7 +122,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `13.73 \* (n/1000)^1.585 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 10% rms error
@@ -136,7 +140,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `47 \* (n/1000)^2 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 32000`
+`n \<= 32000`
 {{< tdclose >}}
 {{< tdopen >}}
 6% rms error
@@ -154,7 +158,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `60000 \* (n/1000)^3 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 4000`
+`n \<= 4000`
 {{< tdclose >}}
 {{< tdopen >}}
 8% rms error
@@ -172,7 +176,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 `0.06 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 512000`
+`n \<= 512000`
 {{< tdclose >}}
 {{< tdopen >}}
 10% rms error
@@ -182,7 +186,7 @@ The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and
 
 {{< tableclose >}}
 
-It is perhaps curious that multiplication is implemented using Karatsuba's algorithm, giving an Θ(_n_lg 3) running time, while division uses an Θ(_n_2) algorithm.
+It is perhaps curious that multiplication is implemented using Karatsuba's algorithm, giving an Θ(_n_{{< sup "lg 3" >}}) running time, while division uses an Θ(_n_{{< sup "2" >}}) algorithm.
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -196,7 +200,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.13 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 512000`
+`n \<= 512000`
 {{< tdclose >}}
 {{< tdopen >}}
 29% rms error
@@ -214,7 +218,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `1 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 256000`
+`n \<= 256000`
 {{< tdclose >}}
 {{< tdopen >}}
 19% rms error
@@ -232,7 +236,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.3 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 256000`
+`n \<= 256000`
 {{< tdclose >}}
 {{< tdopen >}}
 28% rms error
@@ -250,7 +254,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `3.2 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 256000`
+`n \<= 256000`
 {{< tdclose >}}
 {{< tdopen >}}
 11% rms error
@@ -290,7 +294,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.10 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 640000`
+`n \<= 640000`
 {{< tdclose >}}
 {{< tdopen >}}
 3% rms error
@@ -308,7 +312,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.24 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 640000`
+`n \<= 640000`
 {{< tdclose >}}
 {{< tdopen >}}
 3% rms error
@@ -326,7 +330,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.25 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 0.5% rms error
@@ -344,7 +348,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `22 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 3% rms error
@@ -362,7 +366,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `5.4 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 4% rms error
@@ -380,7 +384,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `11.5 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 10% rms error
@@ -398,7 +402,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `11 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 4% rms error
@@ -416,7 +420,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `1.7 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 4% rms error
@@ -434,7 +438,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `1.3 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 10% rms error
@@ -452,7 +456,7 @@ It is perhaps curious that multiplication is implemented using Karatsuba's algor
 `0.0039 \* n lg(n) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 12% rms error
@@ -494,7 +498,7 @@ The **first** time one appends to a list, there is additional cost as the list i
 `0.12 microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 3% rms error
@@ -512,7 +516,7 @@ The **first** time one appends to a list, there is additional cost as the list i
 `57 \* (n/1000) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 27% rms error
@@ -530,7 +534,7 @@ The **first** time one appends to a list, there is additional cost as the list i
 `0.0096 \* n lg(n) microseconds`
 {{< tdclose >}}
 {{< tdopen >}}
-`n <= 64000`
+`n \<= 64000`
 {{< tdclose >}}
 {{< tdopen >}}
 14% rms error

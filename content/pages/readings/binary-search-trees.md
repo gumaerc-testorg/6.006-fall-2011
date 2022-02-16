@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: aa632f83-51fe-4fa5-8aaf-1513de806253
 title: Binary Search Trees
 uid: 3e392c68-f217-c957-d2c8-70f39c63c084

@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Lecture notes (PDF)](resources/mit6_006f11_lec16)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 16: Dijkstra'
 uid: 038a396a-88e9-e2ec-70b2-6136118f7e00
 video_files:
   archive_url: http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec16_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/280f09331d09527199c4b79b5064d087_2E7MmKv0Y24.vtt
+  video_captions_file: /courses/6-006-introduction-to-algorithms-fall-2011/280f09331d09527199c4b79b5064d087_2E7MmKv0Y24.vtt
   video_thumbnail_file: https://img.youtube.com/vi/2E7MmKv0Y24/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/1c0371bba2bb2cd1485287fc37064e18_2E7MmKv0Y24.pdf
+  video_transcript_file: /courses/6-006-introduction-to-algorithms-fall-2011/1c0371bba2bb2cd1485287fc37064e18_2E7MmKv0Y24.pdf
 video_metadata:
   youtube_id: 2E7MmKv0Y24
 ---

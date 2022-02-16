@@ -2,14 +2,26 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Original (handwritten) notes (![This resource may not render correctly
+  in a screen reader.](/images/inacessible.gif)PDF - 4.3MB)](resources/mit6_006f11_lec08_orig)
+
+
+  [Typed notes (PDF)](resources/mit6_006f11_lec08)'
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Hashing with Chaining'
 uid: 7eee5a3e-15d7-09b9-e817-dd1773352056
 video_files:
   archive_url: http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/aa3effa97bbb5a6ea62cabb4a3de0f1e_0M_kIqhwbFo.vtt
+  video_captions_file: /courses/6-006-introduction-to-algorithms-fall-2011/aa3effa97bbb5a6ea62cabb4a3de0f1e_0M_kIqhwbFo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/0M_kIqhwbFo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/d70981f6772f565f0919bb1a31b57142_0M_kIqhwbFo.pdf
+  video_transcript_file: /courses/6-006-introduction-to-algorithms-fall-2011/d70981f6772f565f0919bb1a31b57142_0M_kIqhwbFo.pdf
 video_metadata:
   youtube_id: 0M_kIqhwbFo
 ---
