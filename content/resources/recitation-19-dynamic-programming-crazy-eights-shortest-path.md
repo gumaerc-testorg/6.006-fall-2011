@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 19: Dynamic Programming: Crazy Eights, Shortest Path'
 uid: afa3052f-6bea-4a08-d334-3f6feca3c905
 video_files:

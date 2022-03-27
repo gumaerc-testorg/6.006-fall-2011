@@ -34,7 +34,7 @@ The least-squares fit was designed to minimize the sum of squares of relative er
 The machine used was an IBM Thinkpad T43p with a 1.86GHz Pentium M processor and 1.5GB RAM.
 
 *   [Timing code (PY)]({{< baseurl >}}/resources/timing)
-*   [Sample output (TXT)](./resolveuid/5b1e2569373c58a4e6bd0dd1112a9ba7)
+*   [Sample output (TXT)]({{< baseurl >}}/resources/timing-out)
 
 \[This output may have results somewhat different than in the charts below, due to random run-time variations...\]
 

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitation Videos
 parent_type: CourseSection
+parent_uid: 92ffcb23-abbe-6cb4-7823-19d55858f37a
 resourcetype: Document
 title: '6.006 Recitation 9b Handout: DNA Sequence Matching'
 uid: 228a1543-8189-1ad4-fe58-c41f59248a4b

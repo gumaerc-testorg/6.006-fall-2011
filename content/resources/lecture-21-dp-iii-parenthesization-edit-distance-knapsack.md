@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack'
 uid: a394c84b-b84c-79e4-01a7-614c549dc8e2
 video_files:

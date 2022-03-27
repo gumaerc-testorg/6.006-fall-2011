@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
 resourcetype: Document
 title: '6.006 Lecture 21 Original: String subproblems, psuedopolynomial time; parenthesization,
   edit distance, knapsack'

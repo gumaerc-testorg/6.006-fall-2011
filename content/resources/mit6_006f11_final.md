@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c0f2d196-d4a6-15c1-014e-ceaf83248218
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Fall 2011 Final Exam
 uid: c316e062-0206-49db-5cda-5785036c6fb8

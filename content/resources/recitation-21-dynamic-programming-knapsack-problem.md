@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 21: Dynamic Programming: Knapsack Problem'
 uid: 5c140d85-fd59-d66b-f5b1-fc19b59a73f2
 video_files:

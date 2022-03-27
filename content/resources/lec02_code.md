@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
 resourcetype: Other
 title: lec02_code.zip
 uid: 49bdf99d-2b06-72f4-6995-170c0f956569

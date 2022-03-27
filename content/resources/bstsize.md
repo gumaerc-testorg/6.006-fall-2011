@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Binary Search Trees
 parent_type: CourseSection
+parent_uid: 3e392c68-f217-c957-d2c8-70f39c63c084
 resourcetype: Other
 title: bstsize.py
 uid: c73ee324-2ff0-adf8-38ad-898c415fd267

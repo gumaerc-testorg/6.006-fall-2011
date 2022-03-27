@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
 resourcetype: Document
 title: '6.006 Lecture 14 Original: Depth-first search (DFS), topological sorting'
 uid: e9d7956e-511f-0d56-d2c5-1e7ce58f0813

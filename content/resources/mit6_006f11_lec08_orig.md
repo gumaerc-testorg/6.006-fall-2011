@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
 resourcetype: Document
 title: '6.006 Lecture 8 Original: Hashing with chaining'
 uid: 69d45fd7-439f-9dc6-eb9f-ff8b183c67ee

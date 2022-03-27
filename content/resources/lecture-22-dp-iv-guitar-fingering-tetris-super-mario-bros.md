@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario
   Bros.'
 uid: ac9d24ab-0cc7-2faf-8761-d9ef9268af6d

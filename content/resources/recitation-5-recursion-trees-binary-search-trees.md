@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -17,6 +18,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 5: Recursion Trees, Binary Search Trees'
 uid: 5b4e2b04-1375-2758-a1a9-16b9a73f3dc9
 video_files:

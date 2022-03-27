@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitation Videos
 parent_type: CourseSection
+parent_uid: 92ffcb23-abbe-6cb4-7823-19d55858f37a
 resourcetype: Other
 title: rec01_code.zip
 uid: bfa5643c-fbe6-d615-283f-a785794bf112

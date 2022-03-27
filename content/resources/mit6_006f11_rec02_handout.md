@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitation Videos
 parent_type: CourseSection
+parent_uid: 92ffcb23-abbe-6cb4-7823-19d55858f37a
 resourcetype: Document
 title: '6.006 Recitation 2 Handout: Python Cost Model, Document Distance'
 uid: fee8841b-cb20-74fe-82d5-0b209444cc7f

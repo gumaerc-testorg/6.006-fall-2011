@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: 6af424cb-24d7-0b69-cb7c-86df8a25a92a
 resourcetype: Document
 title: '6.006 Lecture 24 Original: Algorithms research topics'
 uid: 9a29dd1c-b685-5fce-0c88-39b2d95bef91

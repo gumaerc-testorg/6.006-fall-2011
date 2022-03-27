@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7fd33342-3721-55a2-5c91-0269de56eb8f
 resourcetype: Other
 title: ps7_writeup.zip
 uid: d4e850fc-b9d9-ce5c-e3c8-de1b5d5f9aa3

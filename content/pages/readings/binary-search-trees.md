@@ -43,7 +43,8 @@ Both bst.py and avl.py (as well as bstsize.py) can be tested interactively from 
 
 Alternatively, you can use them from a Python shell as follows:
 
-\>>> import bst
+```
+>>> import bst
 >>> t = bst.BST()
 >>> print t
 
@@ -67,8 +68,10 @@ Alternatively, you can use them from a Python shell as follows:
  /\\
   3
   /\\
+```
 
-\>>> import avl
+```
+>>> import avl
 >>> t = avl.AVL()
 >>> print t
 
@@ -88,3 +91,4 @@ Alternatively, you can use them from a Python shell as follows:
  / \\
 1  3
 /\\ /\\
+```

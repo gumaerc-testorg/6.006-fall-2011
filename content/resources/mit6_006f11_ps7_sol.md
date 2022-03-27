@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7fd33342-3721-55a2-5c91-0269de56eb8f
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Problem Set 7 Solutions
 uid: e7696ae3-c23b-f722-64f2-7313149021a7

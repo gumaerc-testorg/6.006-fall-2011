@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c0f2d196-d4a6-15c1-014e-ceaf83248218
 resourcetype: Document
 title: 6.006 Introduction to Algorithms, Fall 2011 Quiz 2
 uid: 083becbc-6a27-9bd0-2d2b-ef9d606e508c
