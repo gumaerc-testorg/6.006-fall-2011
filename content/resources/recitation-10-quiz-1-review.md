@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: Recitation Notes
-optional_text: '[Recitation notes (PDF)](resources/mit6_006f11_rec10)'
+optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec10)'
 parent_title: Recitation Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This recitation covers several practice problems for Quiz 1, taken from previous semesters of 6.006.
 
 **Instructor:** Victor Costan
+
+
+

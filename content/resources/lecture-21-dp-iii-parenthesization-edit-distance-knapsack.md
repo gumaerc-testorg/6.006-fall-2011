@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)PDF - 4.2MB)](resources/mit6_006f11_lec21_orig)
+optional_text: '[Original (handwritten) notes (PDF - 4.2MB)](resources/mit6_006f11_lec21_orig)
 
 
-  [Typed notes (PDF)](resources/mit6_006f11_lec21)'
+  [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec21)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Description:** This lecture starts with how to define useful subproblems for strings or sequences, and then looks at parenthesization, edit distance, and the knapsack problem. The lecture ends with a brief discussion of pseudopolynomial time.
 
 **Instructor:** Erik Demaine
+
+
+

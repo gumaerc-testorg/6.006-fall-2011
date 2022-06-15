@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-006-introduction-to-algorithms-fall-2011/e989d4e7b6bca1b747a51e1a14d07437_timing.py
+file: /courses/6-006-introduction-to-algorithms-fall-2011/e989d4e7b6bca1b747a51e1a14d07437_timing.py
 file_type: text/python-source
 learning_resource_types: []
 ocw_type: OCWFile
@@ -11,4 +11,6 @@ parent_uid: 2e91de4c-23a9-f323-866d-265121e71f07
 resourcetype: Other
 title: timing.py
 uid: e989d4e7-b6bc-a1b7-47a5-1e1a14d07437
+video_metadata:
+  youtube_id: null
 ---

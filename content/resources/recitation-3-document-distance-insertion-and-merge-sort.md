@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Recitation Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This recitation continues to look at versions of the document distance code, and briefly discusses insertion and merge sort.
 
 **Instructor:** Victor Costan
+
+
+

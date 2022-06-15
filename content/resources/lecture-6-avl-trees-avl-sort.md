@@ -5,16 +5,16 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)PDF - 3.9MB)](resources/mit6_006f11_lec06_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.9MB)](resources/mit6_006f11_lec06_orig)
 
 
-  [Typed notes (PDF - 1.4MB)](resources/mit6_006f11_lec06)
+  [Typed notes (PDF - 1.4MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec06)
 
 
-  [Lecture code (ZIP)](resources/lec06_code) (This ZIP file contains: 2 .py files
-  and 1 .txt file.)'
+  [Lecture code (ZIP)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/lec06_code)
+  (This ZIP file contains: 2 .py files and 1 .txt file.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -35,3 +35,6 @@ video_metadata:
 **Description:** This lecture covers AVL trees, including how to insert elements and rebalance the tree, and then discusses the difference between abstract data types and data structures.
 
 **Instructor:** Erik Demaine
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture notes (PDF - 1.1MB)](resources/mit6_006f11_lec18)'
+optional_text: '[Lecture notes (PDF - 1.1MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec18)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture covers optimizations that can improve real-life, average case performance of shortest path algorithms. These include using Dijkstra for a single source and single target, bi-directional search, and goal-directed or A\* search.
 
 **Instructor:** Srini Devadas
+
+
+

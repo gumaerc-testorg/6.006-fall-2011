@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture notes (PDF)](resources/mit6_006f11_lec11)'
+optional_text: '[Lecture notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec11)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This is the first of two lectures on numerics, covering irrational numbers, high-precision computation, and Karatsuba multiplication.
 
 **Instructor:** Srini Devadas
+
+
+

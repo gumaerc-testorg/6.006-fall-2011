@@ -5,15 +5,16 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)PDF - 5.2MB)](resources/mit6_006f11_lec02_orig)
+optional_text: '[Original (handwritten) notes (PDF - 5.2MB)](resources/mit6_006f11_lec02_orig)
 
 
-  [Typed notes (PDF)](resources/mit6_006f11_lec02)
+  [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec02)
 
 
-  [Lecture code (ZIP)](resources/lec02_code) (This ZIP file contains: 8 .py files.)'
+  [Lecture code (ZIP)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/lec02_code)
+  (This ZIP file contains: 8 .py files.)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -34,3 +35,6 @@ video_metadata:
 **Description:** This lecture describes an algorithm as a computational procedure to solve a problem, covers the random access machine and pointer models of computation, and introduces the document distance problem.
 
 **Instructor:** Erik Demaine
+
+
+

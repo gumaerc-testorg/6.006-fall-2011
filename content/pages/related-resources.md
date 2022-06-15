@@ -1,9 +1,13 @@
 ---
 content_type: page
+description: This section provides information on required and recommended textbooks
+  and links to resources on Python and LaTeX.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 2060c3b6-19a4-548e-257e-92c3216faf14
+video_metadata:
+  youtube_id: null
 ---
 
 Textbooks
@@ -24,7 +28,7 @@ Python
 *   [Debugging In Python](http://pythonconquerstheuniverse.wordpress.com/category/python-debugger/)
 *   [6.01 Python Resource list](http://courses.csail.mit.edu/6.01/fall07/resource.html)
 *   [IPython](http://scipy-ipython.readthedocs.io/en/latest/), an enhanced interactive shell for use on the command line.
-*   [Python Cost Model]({{< baseurl >}}/pages/readings/python-cost-model)
+*   {{% resource_link 2e91de4c-23a9-f323-866d-265121e71f07 "Python Cost Model" %}}
 *   [Python video tutorials](http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/)
 
 Beazley, David. _Python Essential Reference_. 3rd ed. Sams, 2006. ISBN: 9780672328626. \[Preview with [Google Books](http://books.google.com/books?id=kQom0WiUbZQC&printsec=frontcover)\]
@@ -37,8 +41,8 @@ You will mostly use Math Mode in LaTeX, so pay particular attention to it in the
 *   [LaTeX Tutorial](http://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 *   [Draw a symbol to get its LaTeX command](http://detexify.kirelabs.org/classify.html)
 *   [LaTeX Symbols](http://www.artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
-*   [Manual for clrscode.sty (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://courses.csail.mit.edu/6.006/fall11/rsrc/clrscode.pdf)
-*   [A (Not So) Short Introduction to LaTeX2e (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.0MB)](http://tobi.oetiker.ch/lshort/lshort.pdf)
+*   [Manual for clrscode.sty (PDF)](http://courses.csail.mit.edu/6.006/fall11/rsrc/clrscode.pdf)
+*   [A (Not So) Short Introduction to LaTeX2e (PDF - 2.0MB)](http://tobi.oetiker.ch/lshort/lshort.pdf)
 *   [TeXnicCenter](http://www.texniccenter.org/) (IDE for Windows)
 *   [LyX for Windows](http://wiki.lyx.org/Windows/Windows) (IDE for Windows)
 *   [MiKTeX](http://miktex.org/) (IDE for Windows)

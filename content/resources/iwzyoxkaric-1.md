@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-006-introduction-to-algorithms-fall-2011/7548e185d333768d9d468356f281b97a_IWzYoXKaRIc.pdf
+file: /courses/6-006-introduction-to-algorithms-fall-2011/7548e185d333768d9d468356f281b97a_IWzYoXKaRIc.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 7548e185-d333-768d-9d46-8356f281b97a
+video_metadata:
+  youtube_id: null
 ---

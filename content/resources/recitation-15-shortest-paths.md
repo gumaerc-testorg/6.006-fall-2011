@@ -6,10 +6,10 @@ file: null
 learning_resource_types:
 - Videos
 optional_tab_title: Recitation Notes
-optional_text: '[Recitation notes (PDF)](resources/mit6_006f11_rec15)
+optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec15)
 
 
-  [Alternate notes (PDF)](resources/mit6_006f11_rec15_alt)'
+  [Alternate notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec15_alt)'
 parent_title: Recitation Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -30,3 +30,6 @@ video_metadata:
 **Description:** This recitation covers breadth-first search for shortest paths.
 
 **Instructor:** Victor Costan
+
+
+

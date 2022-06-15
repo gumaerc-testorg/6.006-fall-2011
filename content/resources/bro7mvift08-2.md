@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-006-introduction-to-algorithms-fall-2011/ff424b53159158be8dedf57411a1dd20_BRO7mVIFt08.vtt
+file: /courses/6-006-introduction-to-algorithms-fall-2011/ff424b53159158be8dedf57411a1dd20_BRO7mVIFt08.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: ff424b53-1591-58be-8ded-f57411a1dd20
+video_metadata:
+  youtube_id: null
 ---

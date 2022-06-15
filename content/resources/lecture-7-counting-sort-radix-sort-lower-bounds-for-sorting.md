@@ -5,12 +5,12 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)PDF - 3.1MB)](resources/mit6_006f11_lec07_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.1MB)](resources/mit6_006f11_lec07_orig)
 
 
-  [Typed notes (PDF)](resources/mit6_006f11_lec07)'
+  [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec07)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -31,3 +31,6 @@ video_metadata:
 **Description:** This lecture starts by using the comparison model to prove lower bounds for searching and sorting, and then discusses counting sort and radix sort, which run in linear time.
 
 **Instructor:** Erik Demaine
+
+
+

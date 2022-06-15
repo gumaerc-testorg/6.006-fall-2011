@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Lecture notes (PDF)](resources/mit6_006f11_lec16)'
+optional_text: '[Lecture notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec16)'
 parent_title: Lecture Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture shows how to find shortest paths in directed acyclic graphs (DAGs) using topological sort, and in graphs without negative edges using Dijkstra's algorithm.
 
 **Instructor:** Srini Devadas
+
+
+

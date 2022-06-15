@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: Recitation Notes
-optional_text: '[Recitation notes (PDF)](resources/mit6_006f11_rec16)'
+optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec16)'
 parent_title: Recitation Videos
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This recitation discusses the Rubik's cube problem from Problem Set 6, and then uses a graph model to find an optimal build order for a simplified version of the StarCraft game.
 
 **Instructor:** Victor Costan
+
+
+
