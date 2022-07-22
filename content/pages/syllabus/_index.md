@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, software, lectures and recitations,
+  problem sets, quizzes, grading policy, coding assignments, written assignments,
+  and collaboration policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f5734501-4b07-a46b-d16f-f4d95aef57d5
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

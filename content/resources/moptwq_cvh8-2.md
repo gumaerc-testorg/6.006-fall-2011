@@ -1,9 +1,14 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/19a98a90ed155a41aa80505ab74281cc_moPtwq_cVH8.vtt
+file: /courses/6-006-introduction-to-algorithms-fall-2011/19a98a90ed155a41aa80505ab74281cc_moPtwq_cVH8.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 19a98a90-ed15-5a41-aa80-505ab74281cc
+video_metadata:
+  youtube_id: null
 ---

@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, quizzes, and assignments
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 2614e308-dd07-490f-b250-81df82b2e3c9
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

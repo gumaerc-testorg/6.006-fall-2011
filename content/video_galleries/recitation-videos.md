@@ -1,8 +1,14 @@
 ---
 content_type: video_gallery
+description: This section contains recitation videos and notes.
 is_media_gallery: true
+learning_resource_types:
+- Videos
+ocw_type: CourseSection
 title: Recitation Videos
 uid: 92ffcb23-abbe-6cb4-7823-19d55858f37a
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - f1689874-9776-c65c-80b7-2dec893d87e6

@@ -1,8 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-006-introduction-to-algorithms-fall-2011/e989d4e7b6bca1b747a51e1a14d07437_timing.py
-file_type: text/python-source
+file: /courses/6-006-introduction-to-algorithms-fall-2011/5b1e2569373c58a4e6bd0dd1112a9ba7_timing.out.txt
+file_type: text/plain
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -10,8 +10,6 @@ parent_title: Python Cost Model
 parent_type: CourseSection
 parent_uid: 2e91de4c-23a9-f323-866d-265121e71f07
 resourcetype: Other
-title: timing.py
-uid: e989d4e7-b6bc-a1b7-47a5-1e1a14d07437
-video_metadata:
-  youtube_id: null
+title: timing.out.txt
+uid: 5b1e2569-373c-58a4-e6bd-0dd1112a9ba7
 ---

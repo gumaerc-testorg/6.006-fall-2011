@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section provides the readings for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: aa632f83-51fe-4fa5-8aaf-1513de806253
+video_metadata:
+  youtube_id: null
 ---
 
 Readings refer to chapters and/or sections of the course textbook:
@@ -50,7 +56,7 @@ Algorithmic thinking, peak finding
 Models of computation, Python cost model, document distance
 {{< tdclose >}}
 {{< tdopen >}}
-1, 3, [Python Cost Model]({{< baseurl >}}/pages/readings/python-cost-model)
+1, 3, {{% resource_link 2e91de4c-23a9-f323-866d-265121e71f07 "Python Cost Model" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +98,7 @@ Heaps and heap sort
 Binary search trees, BST sort
 {{< tdclose >}}
 {{< tdopen >}}
-10.4, 12.1–12.3, [Binary Search Trees]({{< baseurl >}}/pages/readings/binary-search-trees)
+10.4, 12.1–12.3, {{% resource_link 3e392c68-f217-c957-d2c8-70f39c63c084 "Binary Search Trees" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
