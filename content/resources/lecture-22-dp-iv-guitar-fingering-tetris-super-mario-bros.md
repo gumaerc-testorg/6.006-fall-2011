@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 4.4MB)](resources/mit6_006f11_lec22_orig)
@@ -32,6 +33,4 @@ video_metadata:
 **Description:** This lecture introduces a second type of guessing, in which more subproblems are created so that more features of the solution can be found. This type of guessing is illustrated with piano/guitar fingering and the Tetris and Super Mario Brothers games.
 
 **Instructor:** Erik Demaine
-
-
 

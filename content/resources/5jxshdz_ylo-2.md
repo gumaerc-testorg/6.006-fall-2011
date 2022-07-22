@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/8f3c45d9852650f883b9d7e8a4689c52_5JxShDZ_ylo.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

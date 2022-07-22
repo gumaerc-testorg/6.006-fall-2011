@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec15)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture introduces weighted graphs and considers general approaches to the shortest paths problem. The lecture discusses single source shortest paths, negative-weight edges, and optimal substructure.
 
 **Instructor:** Srini Devadas
-
-
 

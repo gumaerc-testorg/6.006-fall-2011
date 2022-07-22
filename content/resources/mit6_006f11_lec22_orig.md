@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/e81216fbda0402f3fc84a3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to two kinds of guessing; piano/guitar fingering, Tetris training, Super Mario Bros.
-

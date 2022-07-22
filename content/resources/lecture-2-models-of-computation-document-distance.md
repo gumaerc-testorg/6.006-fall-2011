@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 5.2MB)](resources/mit6_006f11_lec02_orig)
@@ -35,6 +36,4 @@ video_metadata:
 **Description:** This lecture describes an algorithm as a computational procedure to solve a problem, covers the random access machine and pointer models of computation, and introduces the document distance problem.
 
 **Instructor:** Erik Demaine
-
-
 

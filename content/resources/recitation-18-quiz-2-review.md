@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
 optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec18)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This recitation reviews numerics and graphs in preparation for Quiz 2.
 
 **Instructor:** Victor Costan
-
-
 

@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/ea1cb4a29625017bdbcaf2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to Memoization, subproblems, guessing, bottom-up; Fibonacci, shortest paths.
-

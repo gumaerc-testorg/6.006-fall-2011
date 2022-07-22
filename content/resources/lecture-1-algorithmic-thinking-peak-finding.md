@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture notes (PDF - 1.9MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec01)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Overview of course content, including an motivating problem for each of the modules. The lecture then covers 1-D and 2-D peak finding, using this problem to point out some issues involved in designing efficient algorithms.
 
 **Instructor:** Srini Devadas
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 3.9MB)](resources/mit6_006f11_lec06_orig)
@@ -35,6 +36,4 @@ video_metadata:
 **Description:** This lecture covers AVL trees, including how to insert elements and rebalance the tree, and then discusses the difference between abstract data types and data structures.
 
 **Instructor:** Erik Demaine
-
-
 

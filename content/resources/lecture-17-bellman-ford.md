@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture notes (PDF - 1.2MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec17)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture reviews shortest path notation, considers a generic shortest path algorithm, and then describes and proves the Bellman-Ford algorithm, which can handle graphs with negative cycles.
 
 **Instructor:** Srini Devadas
-
-
 

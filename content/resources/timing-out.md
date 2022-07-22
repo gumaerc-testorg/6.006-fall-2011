@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/5b1e2569373c58a4e6bd0dd1112a9ba7_timing.out.txt
 file_type: text/plain
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Python Cost Model
 parent_type: CourseSection

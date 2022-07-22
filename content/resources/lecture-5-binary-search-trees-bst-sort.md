@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture notes (PDF - 1.2MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec05)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, binary search trees are introduced, and several operations are covered: insertion, finding a value, finding the minimum element.
 
 **Instructor:** Srini Devadas
-
-
 

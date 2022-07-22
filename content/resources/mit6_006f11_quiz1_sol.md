@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/14dca83afa6ba2239ff765
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding quiz 1 solution.
-

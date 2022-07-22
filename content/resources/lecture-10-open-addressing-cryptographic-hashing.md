@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec10)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers open addressing, which is another approach to dealing with collisions (hashing with chaining was covered in Lecture 8). Cryptographic hashing is also introduced.
 
 **Instructor:** Srini Devadas
-
-
 

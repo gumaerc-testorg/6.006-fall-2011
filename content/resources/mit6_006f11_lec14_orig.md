@@ -6,6 +6,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/e9d7956e511f0d56d2c51e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to Depth-first search (DFS), topological sorting.
-

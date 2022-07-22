@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/866988d04cb099a077e8e93f554c5b85_bstsize_r.py
 file_type: text/python-source
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Binary Search Trees
 parent_type: CourseSection

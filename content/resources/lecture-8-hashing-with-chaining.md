@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 4.3MB)](resources/mit6_006f11_lec08_orig)
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** This lecture starts with dictionaries in Python, considers the problems with using a direct-access table, and introduces hashing. The lecture discusses hashing with chaining, which is one way of dealing with collisions.
 
 **Instructor:** Erik Demaine
-
-
 

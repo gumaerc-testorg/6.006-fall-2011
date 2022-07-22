@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 3.7MB)](resources/mit6_006f11_lec09_orig)
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** This lecture covers table resizing, amortized analysis, string matching with the Karp-Rabin algorithm, and rolling hashes.
 
 **Instructor:** Erik Demaine
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Original (handwritten) notes (PDF - 3.1MB)](resources/mit6_006f11_lec14_orig)
@@ -31,6 +32,4 @@ video_metadata:
 **Description:** This lecture covers depth-first search, including edge classification, and how DFS is used for cycle detection and topological sort.
 
 **Instructor:** Erik Demaine
-
-
 

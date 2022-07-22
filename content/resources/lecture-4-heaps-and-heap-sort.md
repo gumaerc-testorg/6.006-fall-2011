@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Lecture slides (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec04)
@@ -30,6 +31,4 @@ video_metadata:
 **Description:** Priority queues are introduced as a motivation for heaps. The lecture then covers heap operations and concludes with a discussion of heapsort.
 
 **Instructor:** Srini Devadas
-
-
 

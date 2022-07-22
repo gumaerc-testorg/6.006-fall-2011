@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/b8329d5cb36ebc9cb90d23
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information about ps6_code_sol.
-

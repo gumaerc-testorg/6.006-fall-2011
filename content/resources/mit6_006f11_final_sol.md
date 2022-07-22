@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/6a81686dc8431dbc9e27db
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding final exam solution.
-

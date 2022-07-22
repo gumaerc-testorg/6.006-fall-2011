@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/a0c286e6ada6a8b5d044b9
 file_type: application/zip
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for recitation 01.
-

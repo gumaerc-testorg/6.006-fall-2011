@@ -5,6 +5,7 @@ file: /courses/6-006-introduction-to-algorithms-fall-2011/9cb8c82ffd604658679e1b
 file_type: application/zip
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a supporting file for lecture 6.
-
