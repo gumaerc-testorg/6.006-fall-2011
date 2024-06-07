@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final exam solution.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/6a81686dc8431dbc9e27dbe42eb683d7_MIT6_006F11_final_sol.pdf
+file_size: 258656
 file_type: application/pdf
 learning_resource_types:
 - Exams

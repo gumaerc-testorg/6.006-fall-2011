@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding recursion trees, binary
   search trees.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/fd8aa3260640466bd402536f41dab9ee_MIT6_006F11_rec05_handout.pdf
+file_size: 557619
 file_type: application/pdf
 learning_resource_types:
 - Videos

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/19a98a90ed155a41aa80505ab74281cc_moPtwq_cVH8.vtt
+file_size: 68765
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

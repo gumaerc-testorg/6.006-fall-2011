@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '120027165'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (PDF - 3.7MB)](resources/mit6_006f11_lec09_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.7MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec09_orig)
 
 
   [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec09)'
@@ -28,8 +29,6 @@ video_files:
 video_metadata:
   youtube_id: BRO7mVIFt08
 ---
-
 **Description:** This lecture covers table resizing, amortized analysis, string matching with the Karp-Rabin algorithm, and rolling hashes.
 
 **Instructor:** Erik Demaine
-

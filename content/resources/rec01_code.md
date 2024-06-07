@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for recitation 01.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/bfa5643cfbe6d615283fa785794bf112_rec01_code.zip
+file_size: 8851
 file_type: application/zip
 learning_resource_types:
 - Videos

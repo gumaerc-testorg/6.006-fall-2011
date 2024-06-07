@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/e1bf91495a4b705a5a7794d01029d802_avl.py
+file_size: 2379
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
