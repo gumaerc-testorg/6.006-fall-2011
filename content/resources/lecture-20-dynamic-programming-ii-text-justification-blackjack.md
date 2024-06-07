@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '118721420'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (PDF - 4.0MB)](resources/mit6_006f11_lec20_orig)
+optional_text: '[Original (handwritten) notes (PDF - 4.0MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec20_orig)
 
 
   [Typed notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec20)'
@@ -28,8 +29,6 @@ video_files:
 video_metadata:
   youtube_id: ENyox7kNKeY
 ---
-
 **Description:** This lecture starts with a five-step process for dynamic programming, and then covers text justification and perfect-information blackjack. The lecture also describes how parent pointers are used to recover the solution.
 
 **Instructor:** Erik Demaine
-

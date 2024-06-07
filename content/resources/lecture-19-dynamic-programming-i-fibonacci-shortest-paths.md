@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '117758996'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (PDF - 3.8MB)](resources/mit6_006f11_lec19_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.8MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec19_orig)
 
 
   [Typed notes (PDF - 1.1MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec19)'
@@ -28,8 +29,6 @@ video_files:
 video_metadata:
   youtube_id: OQ5jsbhAv_M
 ---
-
 **Description:** This lecture introduces dynamic programming, in which careful exhaustive search can be used to design polynomial-time algorithms. The Fibonacci and shortest paths problems are used to introduce guessing, memoization, and reusing solutions to subproblems.
 
 **Instructor:** Erik Demaine
-

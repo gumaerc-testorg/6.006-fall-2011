@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file of lecture 2.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/49bdf99d2b0672f46995170c0f956569_lec02_code.zip
+file_size: 17970
 file_type: application/zip
 learning_resource_types:
 - Lecture Videos

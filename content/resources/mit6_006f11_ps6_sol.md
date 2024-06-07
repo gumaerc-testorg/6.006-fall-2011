@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps6_sol.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/8a7b5b55f10715f346bf4721878b702e_MIT6_006F11_ps6_sol.pdf
+file_size: 294591
 file_type: application/pdf
 learning_resource_types:
 - Assignments

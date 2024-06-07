@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps5_sol.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/86d0fc7bd86543c73d6158a6711cb216_MIT6_006F11_ps5_sol.pdf
+file_size: 325207
 file_type: application/pdf
 learning_resource_types:
 - Assignments

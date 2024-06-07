@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding python cost model, document
   distance.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/fee8841bcb2074fe82d50b209444cc7f_MIT6_006F11_rec02_handout.pdf
+file_size: 564353
 file_type: application/pdf
 learning_resource_types:
 - Videos

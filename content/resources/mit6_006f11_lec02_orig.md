@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to models of computation,
   Python cost model, document distance.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/976b77eb1187593cabf5f06aaada8bd4_MIT6_006F11_lec02_orig.pdf
+file_size: 5401349
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps7_writeup.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/d4e850fcb9d9ce5ce3c8de1b5d5f9aa3_ps7_writeup.zip
+file_size: 19501
 file_type: application/zip
 learning_resource_types:
 - Assignments

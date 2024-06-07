@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps5.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/afa05c10244f8685f1986b282f240679_ps5.zip
+file_size: 60880
 file_type: application/zip
 learning_resource_types:
 - Assignments
