@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to Table doubling, Karp-Rabin.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/490e699b6f5f91383dfcaf65851186fb_MIT6_006F11_lec09_orig.pdf
+file_size: 3879673
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

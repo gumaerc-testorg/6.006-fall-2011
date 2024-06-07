@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '115525090'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (PDF - 3.8MB)](resources/mit6_006f11_lec13_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.8MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec13_orig)
 
 
   [Typed notes (PDF - 1.5MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec13)'
@@ -28,8 +29,6 @@ video_files:
 video_metadata:
   youtube_id: s-CYnVz-uh4
 ---
-
 **Description:** This lecture begins with a review of graphs and applications of graph search, discusses graph representations such as adjacency lists, and covers breadth-first search.
 
 **Instructor:** Erik Demaine
-

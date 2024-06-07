@@ -3,12 +3,13 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
+file_size: '114855660'
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Original (handwritten) notes (PDF - 3.1MB)](resources/mit6_006f11_lec14_orig)
+optional_text: '[Original (handwritten) notes (PDF - 3.1MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec14_orig)
 
 
   [Typed notes (PDF - 1.6MB)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_lec14)'
@@ -28,8 +29,6 @@ video_files:
 video_metadata:
   youtube_id: AfSk24UTFS8
 ---
-
 **Description:** This lecture covers depth-first search, including edge classification, and how DFS is used for cycle detection and topological sort.
 
 **Instructor:** Erik Demaine
-

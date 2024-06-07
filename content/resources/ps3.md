@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps3.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/0dc60fc1649a5b0ab2ae5cfdadf887b3_ps3.zip
+file_size: 3358023
 file_type: application/zip
 learning_resource_types:
 - Assignments

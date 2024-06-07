@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps6_code_sol.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/b8329d5cb36ebc9cb90d23d2d4039148_ps6_code_sol.zip
+file_size: 10766
 file_type: application/zip
 learning_resource_types:
 - Assignments

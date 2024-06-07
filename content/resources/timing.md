@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-006-introduction-to-algorithms-fall-2011/e989d4e7b6bca1b747a51e1a14d07437_timing.py
+file_size: 21003
 file_type: text/python-source
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

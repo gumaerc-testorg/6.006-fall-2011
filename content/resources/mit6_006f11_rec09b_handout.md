@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding DNA sequence matching.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/228a154381891ad4fe58c41f59248a4b_MIT6_006F11_rec09b_handout.pdf
+file_size: 567448
 file_type: application/pdf
 learning_resource_types:
 - Videos

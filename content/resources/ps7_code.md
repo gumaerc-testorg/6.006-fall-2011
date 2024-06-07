@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about ps5_code.
 file: /courses/6-006-introduction-to-algorithms-fall-2011/f0278f960f6302f616ffc7b7432f778b_ps7_code.zip
+file_size: 285874
 file_type: application/zip
 learning_resource_types:
 - Assignments
