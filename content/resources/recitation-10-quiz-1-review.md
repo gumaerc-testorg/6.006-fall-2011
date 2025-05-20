@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '124631457'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: -FElVPKykgw
 ---
-
 **Description:** This recitation covers several practice problems for Quiz 1, taken from previous semesters of 6.006.
 
 **Instructor:** Victor Costan
-
