@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '132844469'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: a_otxyu0mSQ
 ---
-
 **Description:** This recitation discusses principles of algorithm design, using example problems from previous final exams.
 
 **Instructor:** Victor Costan
-

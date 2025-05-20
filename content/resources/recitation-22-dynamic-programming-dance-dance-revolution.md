@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '121062848'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: PptQgy89cN8
 ---
-
 **Description:** This recitation looks at player positions in the Dance Dance Revolution game, along the lines of the guitar fingering example shown in lecture.
 
 **Instructor:** Victor Costan
-
