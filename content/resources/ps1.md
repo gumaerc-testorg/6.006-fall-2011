@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about ps1.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/fcacd9bff1a8c6459253fb4aa0913fbe_ps1.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/fcacd9bff1a8c6459253fb4aa0913fbe_ps1.zip
 file_size: 123450
 file_type: application/zip
 image_metadata:

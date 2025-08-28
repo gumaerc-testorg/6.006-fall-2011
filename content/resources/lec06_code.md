@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for lecture 6.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/9cb8c82ffd604658679e1be9eb6efbca_lec06_code.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/9cb8c82ffd604658679e1be9eb6efbca_lec06_code.zip
 file_size: 4161
 file_type: application/zip
 image_metadata:

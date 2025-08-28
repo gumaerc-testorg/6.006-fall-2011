@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to Parent pointers; text justification,
   perfect-information blackjack.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/3081465d1ec6840ddc2be9f6beb4b3f4_MIT6_006F11_lec20_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/3081465d1ec6840ddc2be9f6beb4b3f4_MIT6_006F11_lec20_orig.pdf
 file_size: 4217815
 file_type: application/pdf
 image_metadata:

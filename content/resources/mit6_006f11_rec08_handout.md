@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding simulation algorithms.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/d4eda4bfab0931d89e3d2b23817e206f_MIT6_006F11_rec08_handout.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/d4eda4bfab0931d89e3d2b23817e206f_MIT6_006F11_rec08_handout.pdf
 file_size: 603802
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Videos
