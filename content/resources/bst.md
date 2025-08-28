@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-006-introduction-to-algorithms-fall-2011/7f7ba1c1c85b1ec4bd58965bfe791489_bst.py
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/7f7ba1c1c85b1ec4bd58965bfe791489_bst.py
 file_size: 4534
 file_type: text/python-source
 learning_resource_types: []
