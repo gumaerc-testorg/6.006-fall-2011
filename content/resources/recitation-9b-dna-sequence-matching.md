@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '130601101'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
@@ -29,8 +35,6 @@ video_files:
 video_metadata:
   youtube_id: -DwGrJ8JxDc
 ---
-
 **Description:** This recitation starts with a short discussion of hashing, and then discusses problem set code for most of the hour. Amortized analysis is also discussed briefly.
 
 **Instructor:** Victor Costan
-

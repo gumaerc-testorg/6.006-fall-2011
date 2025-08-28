@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '123215235'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 4iXLnF3hExw
 ---
-
 **Description:** This recitation continues to look at versions of the document distance code, and briefly discusses insertion and merge sort.
 
 **Instructor:** Victor Costan
-

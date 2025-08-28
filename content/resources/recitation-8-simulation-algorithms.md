@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '126531085'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
@@ -29,8 +35,6 @@ video_files:
 video_metadata:
   youtube_id: eGSXsaJ-BlY
 ---
-
 **Description:** This recitation discusses the first problem from Problem Set 3, covering sweep-line algorithms and range queries.
 
 **Instructor:** Victor Costan
-

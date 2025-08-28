@@ -1,11 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
 file_size: '124669489'
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
-- Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Recitation Notes
@@ -26,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 5JxShDZ_ylo
 ---
-
 **Description:** This recitation starts with a discussion of Problem Set 5, and then covers graph representations and breadth-first search.
 
 **Instructor:** Victor Costan
-
