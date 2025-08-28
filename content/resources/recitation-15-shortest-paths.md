@@ -11,7 +11,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Videos
+- Problem-solving Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: Recitation Notes
 optional_text: '[Recitation notes (PDF)](/courses/6-006-introduction-to-algorithms-fall-2011/resources/mit6_006f11_rec15)

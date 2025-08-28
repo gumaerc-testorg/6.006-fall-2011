@@ -36,7 +36,7 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Problem Sets with Solutions",
     "Exams with Solutions",
     "Programming Assignments with Examples",
@@ -44,5 +44,6 @@
   ],
   "site_uid": "b5627555-f7cc-4d30-876e-2710d1f25e84",
   "site_short_id": "6.006-fall-2011",
+  "site_url_path": "courses/6-006-introduction-to-algorithms-fall-2011",
   "title": "Course Metadata"
 }

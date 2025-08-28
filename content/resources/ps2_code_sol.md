@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about ps2_code_sol.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/284978c1fc754cbf74d2c8a4d50ce85a_ps2_code_sol.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/284978c1fc754cbf74d2c8a4d50ce85a_ps2_code_sol.zip
 file_size: 8029272
 file_type: application/zip
 image_metadata:

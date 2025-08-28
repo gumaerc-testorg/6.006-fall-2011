@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to Memoization, subproblems,
   guessing, bottom-up; Fibonacci, shortest paths.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/ea1cb4a29625017bdbcaf2dfd61b179e_MIT6_006F11_lec19_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/ea1cb4a29625017bdbcaf2dfd61b179e_MIT6_006F11_lec19_orig.pdf
 file_size: 3936373
 file_type: application/pdf
 image_metadata:

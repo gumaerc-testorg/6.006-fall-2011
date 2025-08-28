@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a supporting file for recitation 01.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/bfa5643cfbe6d615283fa785794bf112_rec01_code.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/bfa5643cfbe6d615283fa785794bf112_rec01_code.zip
 file_size: 8851
 file_type: application/zip
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitation Videos

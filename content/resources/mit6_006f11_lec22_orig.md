@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to two kinds of guessing;
   piano/guitar fingering, Tetris training, Super Mario Bros.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/e81216fbda0402f3fc84a3d9438a959a_MIT6_006F11_lec22_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/e81216fbda0402f3fc84a3d9438a959a_MIT6_006F11_lec22_orig.pdf
 file_size: 4605698
 file_type: application/pdf
 image_metadata:

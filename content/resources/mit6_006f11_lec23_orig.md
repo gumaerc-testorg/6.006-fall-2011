@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Computational complexity.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/d05389a3835dd7c715389f590e4bf48a_MIT6_006F11_lec23_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/d05389a3835dd7c715389f590e4bf48a_MIT6_006F11_lec23_orig.pdf
 file_size: 4134042
 file_type: application/pdf
 image_metadata:

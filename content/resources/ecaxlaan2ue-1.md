@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-006-introduction-to-algorithms-fall-2011/17798b54cc1a7fdba6972ecd681eaf1e_eCaXlAaN2uE.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/17798b54cc1a7fdba6972ecd681eaf1e_eCaXlAaN2uE.pdf
 file_size: 65205
 file_type: application/pdf
 learning_resource_types: []

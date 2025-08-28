@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about ps5_sol.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/7256cbe82e3eae61aba43705d7bfeba5_ps7_sol.zip
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/7256cbe82e3eae61aba43705d7bfeba5_ps7_sol.zip
 file_size: 649
 file_type: application/zip
 image_metadata:

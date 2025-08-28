@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about ps4_sol.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/418d498452f400c119dd0b6dd2c43f50_MIT6_006F11_ps4_sol.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/418d498452f400c119dd0b6dd2c43f50_MIT6_006F11_ps4_sol.pdf
 file_size: 173077
 file_type: application/pdf
 image_metadata:

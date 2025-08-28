@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to counting sort, radix sort,
   lower bounds for sorting and searching.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/47a412008dc74679e9072891be09f351_MIT6_006F11_lec07_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/47a412008dc74679e9072891be09f351_MIT6_006F11_lec07_orig.pdf
 file_size: 3225323
 file_type: application/pdf
 image_metadata:

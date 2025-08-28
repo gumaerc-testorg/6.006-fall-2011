@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to String subproblems, psuedopolynomial
   time; parenthesization, edit distance, knapsack.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/06fe52fd13d711cb32dd0e5c6c8f0980_MIT6_006F11_lec21_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/06fe52fd13d711cb32dd0e5c6c8f0980_MIT6_006F11_lec21_orig.pdf
 file_size: 4433315
 file_type: application/pdf
 image_metadata:

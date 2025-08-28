@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to Hashing with chaining.
 draft: false
-file: /courses/6-006-introduction-to-algorithms-fall-2011/69d45fd7439f9dc6eb9fff8b183c67ee_MIT6_006F11_lec08_orig.pdf
+file: /ol-ocw-studio-app/courses/6-006-introduction-to-algorithms-fall-2011/69d45fd7439f9dc6eb9fff8b183c67ee_MIT6_006F11_lec08_orig.pdf
 file_size: 4458961
 file_type: application/pdf
 image_metadata:
