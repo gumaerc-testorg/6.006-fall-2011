@@ -27,7 +27,7 @@ This section covers the 6.006 programming environment setup:
 
 In theory, you can solve all the 6.006 assignments with nothing other than Notepad. However, in order to be efficient and make the most out of the class, you’ll need a plethora of software, such as a Python interpreter, the PIP package manager, and an IDE. You can find this software on Athena, which is the only platform that we officially support. The rest of this document will help you set up this software on your own machine. We have provided instructions below for the following operating systems / distributions:
 
-1. [Ubuntu Linux 11.04 or 11.10](http://www.ubuntu.com/download/ubuntu/download)
+1. {{% resource_link "7df8be99-ef3a-4f75-bd63-3b3883558c0e" "Ubuntu Linux 11.04 or 11.10" %}}
 2. Mac OS X 10.7 (Lion)
 3. Windows 7
 
@@ -52,11 +52,11 @@ Python 2.7 should now be installed. Run `python --version` to make sure that the
 
 We support the Python interpreter that comes with OS X 10.7 (Lion).
 
-If you have OS X 10.6 (Snow Leopard), [this Python 2.7.2 package (DMG)](http://www.python.org/ftp/python/2.7.2/python-2.7.2-macosx10.6.dmg) will most likely get you through the class, although the course staff will be unable to help you if you get stuck.
+If you have OS X 10.6 (Snow Leopard), {{% resource_link "681ee1fc-5359-4d87-8858-224167184f11" "this Python 2.7.2 package (DMG)" %}} will most likely get you through the class, although the course staff will be unable to help you if you get stuck.
 
 ### Windows 7
 
-1. Download [Python 2.7.2 (MSI)](http://www.python.org/ftp/python/2.7.2/python-2.7.2.msi) and follow the wizard to install into the default location (C:\\Python27\\)
+1. Download {{% resource_link "5ef4c785-c194-40c8-8202-85a2e5f251a6" "Python 2.7.2 (MSI)" %}} and follow the wizard to install into the default location (C:\\Python27\\)
 2. Add Python to the PATH
     1. Go to Start → Control Panel → System and Security → System
     2. On the left, click on Advanced system settings
@@ -70,7 +70,7 @@ If you have OS X 10.6 (Snow Leopard), [this Python 2.7.2 package (DMG)](http://w
 
 ### Ubuntu Linux
 
-1. Download a Linux binary from the [PyPy download page](http://pypy.org/download.html).
+1. Download a Linux binary from the {{% resource_link "e4e6e30f-e03e-4f2b-9c9e-379192e0133a" "PyPy download page" %}}.
 2. Unpack it in the Downloads folder by double-clicking on the package.
 3. Open a Terminal window, and type the following commands:
 4. Install a required library:      
@@ -84,7 +84,7 @@ You should now be able to run PyPy by typing `pypy`, unless you removed `/usr/lo
 
 ### Mac OS X
 
-1. Download [PyPy 1.6 for OS X (TAR)](https://downloads.python.org/pypy/pypy-1.6-osx64.tar.bz2).
+1. Download {{% resource_link "3234384d-e6c4-4906-8176-592b27db3a34" "PyPy 1.6 for OS X (TAR)" %}}.
 2. Unpack it in the Downloads folder by double-clicking on the package.
 3. Open a Terminal window, and type the following commands:
 4. Move PyPy to a different location:      
@@ -96,7 +96,7 @@ You should now be able to run PyPy just type typing `pypy`, as `/usr/local/bin` 
 
 ### Windows 7
 
-1. Download [PyPy 1.6 for Windows (EXE)](https://downloads.python.org/pypy/pypy-1.6-win32-c.zip).
+1. Download {{% resource_link "83bd7a24-284a-416c-8c72-f61cc7bd7821" "PyPy 1.6 for Windows (EXE)" %}}.
 2. Extract the zip file to C:\\pypy-1.6-win32-c
 3. The main executable is C:\\pypy-1.6-win32-c\\pypy-c.exe
 
@@ -114,7 +114,7 @@ You can test whether you were able to install pip for PyPy correctly by running 
 
 ### Windows 7
 
-1. Download and install [setuptools for Python 2.7](https://pypi.org/project/setuptools/).
+1. Download and install {{% resource_link "501875cf-6a65-4786-802a-041c8c746674" "setuptools for Python 2.7" %}}.
 2. Add the Scripts folder to the PATH
     1. Go to Start → Control Panel → System and Security → System
     2. On the left, click on Advanced system settings
@@ -132,8 +132,8 @@ pip should now be installed for CPython. You can test it by opening a command pr
 Now, install pip for PyPy:
 
 1. Download these two files to C:\\pypy-1.6-win32-c\\pypy-1.6 (or wherever else you installed PyPy). If they open in your browser, you can typically go to the File menu and choose Save File As… to save them to your desired location (in this case, the PyPy folder).      
-    [Get distribute\_setup.py](https://pypi.org/project/distribute/0.6.8/#distribute-setup-py)      
-    [Get get-pip.py](https://pip.pypa.io/en/stable/installing/)
+    {{% resource_link "ce25e356-3356-4137-9d4c-18634fc05103" "Get distribute\_setup.py" %}}      
+    {{% resource_link "0c16a921-9d7e-4d08-9886-1289c16741d0" "Get get-pip.py" %}}
 2. Open a new command prompt window, and change directories to your PyPy folder:      
     `cd C:\pypy-1.6-win32-c\pypy-1.6`
 3. Run the following commands to install pip for PyPy:      
@@ -160,13 +160,13 @@ IDLE comes with Python, and is a good default choice. IDLE is installed by defau
     `sudo apt-get install -y sun-java6-jdk sun-java6-fonts ant ant-optional`     
     `libglade2-0 libgnome2-0 libgnomecanvas2-0 libgnomecanvas2-common`     
     `libgnomeui-0 libgnomeui-common sat4j git`
-5. [Download Aptana Studio](http://www.aptana.com/) and extract it in your home directory.
+5. {{% resource_link "1db4d865-11a1-4048-a7c0-9b091f6e94f6" "Download Aptana Studio" %}} and extract it in your home directory.
 
 ### Mac OS X
 
-[Download and install Aptana Studio](http://www.aptana.com/).
+{{% resource_link "1db4d865-11a1-4048-a7c0-9b091f6e94f6" "Download and install Aptana Studio" %}}.
 
 ### Windows
 
-1. Download the latest version of the [Java SE 6 JDK](https://www.oracle.com/java/technologies/downloads/archive/).
-2. [Download and install Aptana Studio](http://www.aptana.com/).
+1. Download the latest version of the {{% resource_link "e1602486-1767-43c8-bd40-ad6f291ff194" "Java SE 6 JDK" %}}.
+2. {{% resource_link "1db4d865-11a1-4048-a7c0-9b091f6e94f6" "Download and install Aptana Studio" %}}.

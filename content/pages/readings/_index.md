@@ -12,7 +12,7 @@ video_metadata:
 
 Readings refer to chapters and/or sections of the course textbook:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [_Introduction to Algorithms_](https://mitpress.mit.edu/9780262033848). 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+{{% resource_link "94027d7c-0103-4e71-aa6d-45b71cbd7769" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "94027d7c-0103-4e71-aa6d-45b71cbd7769" "_Introduction to Algorithms_" %}}. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -332,7 +332,7 @@ Memoization, subproblems, guessing, bottom-up; Fibonacci, shortest paths
 Parent pointers; text justification, perfect-information blackjack
 {{< tdclose >}}
 {{< tdopen >}}
-15.3, Problem 15–4, [Blackjack rules](http://en.wikipedia.org/wiki/Blackjack)
+15.3, Problem 15–4, {{% resource_link "6a9b73c5-57c3-4aab-a95c-a142f60f4d65" "Blackjack rules" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

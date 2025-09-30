@@ -34,7 +34,7 @@ If you have not taken and been successful in each of these subjects, please spea
 
 ### Required
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. [*Introduction to Algorithms*](https://mitpress.mit.edu/9780262033848). 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
+{{% resource_link "94027d7c-0103-4e71-aa6d-45b71cbd7769" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cormen, Thomas, Charles Leiserson, Ronald Rivest, and Clifford Stein. {{% resource_link "94027d7c-0103-4e71-aa6d-45b71cbd7769" "*Introduction to Algorithms*" %}}. 3rd ed. MIT Press, 2009. ISBN: 9780262033848.
 
 For the student who finds books helpful, we also suggest:
 
