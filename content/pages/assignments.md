@@ -204,7 +204,7 @@ Seam carving, stock purchasing and knapsack
 
 {{% resource_link ec4e5792-5e22-a44b-8591-39ab60fa302b "Problem Set 7 (PDF)" %}}
 
-[Seam Carving for Content-Aware Image Resizing](https://dx.doi.org/10.1145/1276377.1276390)
+{{% resource_link "67759470-1257-4b75-9c18-84c75b7c4ec9" "Seam Carving for Content-Aware Image Resizing" %}}
 
 {{% resource_link f0278f96-0f63-02f6-16ff-c7b7432f778b "Problem Set 7 Code (ZIP)" %}} (Sunset image © source unknown. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).)
 
